@@ -8,7 +8,7 @@ public class MsgController {
 	
 	@GetMapping("/hai")
 	public String msg() {
-		return "hai abhishek with jayanth and kiran";
+		return "hai abhishek with jayanth and kiran at 01/08/2023";
 	}
 
 }
